@@ -1,0 +1,6 @@
+git config --global user.name "you_username"
+git config --list
+Third line
+
+
+git checkout -b myBranch
